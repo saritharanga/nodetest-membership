@@ -1,0 +1,13 @@
+{
+  "name": "nodetest-membership",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "mocha": "~4.0.1",
+    "should": "^13.1.1"
+  }
+}

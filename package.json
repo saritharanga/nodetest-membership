@@ -2,7 +2,11 @@
   "name": "nodetest-membership",
   "version": "0.0.1",
   "description": "",
-  "dependencies": {},
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "deasync": "^0.1.10",
+    "secondthought": "github:robconery/second-thought"
+  },
   "devDependencies": {
     "grunt": "*",
     "grunt-contrib-jshint": "*",
